@@ -1,6 +1,6 @@
 # springboot_vue_project
 
-springBoot+vue的前后端分离式项目  项目链接：http://43.138.210.113
+springBoot+vue的前后端分离式项目 
 
 一个信息管理系统，后续内容还会持续开发
 目前主要运用到vue脚手架，springboot，redis，mybatisplus
@@ -15,4 +15,6 @@ x-admin是idea的springboot
   不知道怎么修改的可以看我笔记里面项目部署中vue和springboot打包那部分的，自行修改就可以了
 
 - 配置文件中的jdbc连接数据库部分的账号密码也要换成自己的
+
+### 项目链接：http://43.138.210.113
 
